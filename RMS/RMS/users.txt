@@ -1,0 +1,9 @@
+
+
+11   Gal Gadot            VIP             1000
+12   Devinder             ELITE	          989
+13   Johnson              JustJoined      10
+14   Robert Downey        Premimum        563
+15   Scarlett Johnson	  VIP             1020
+16   Channing             ELITE           865
+17   Timmons              VIP             1203

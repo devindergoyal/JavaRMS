@@ -1,0 +1,12 @@
+
+
+1			Johnson				Coffee			$12			$5				North York     01/10/2017
+2			Devinder			Potato			$15			$2				Brampton       12/10/2017
+3			Gal Gadot			French			$14			$5				Markham		   01/10/2017
+4			Robert Downey		Creamy Ice		$15			$6				Scarborough    05/11/2017
+5			Scarlett Johnson	Sandwich 		$11.60		$2				Markham        
+6			Channing			Roasted Grill	$25			$7.5			Brampton
+7			Timmons				Sandwich		$10			$1.5			Markham
+8			Pumba				Potato Wedge	$4			$.5				Scarborough
+9			Tom					Choco Lava		$7.9		$0				North York	
+10			Jerry				Cheese Cream	$11.98		$2				Brampton
